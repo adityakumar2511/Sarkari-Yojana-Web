@@ -1,0 +1,191 @@
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  
+  RewriteRule ^Home-Page$ index.php [l]
+  
+  RewriteRule ^Central-Scheme$ Navbar/Central-Scheme.php [L]
+
+  RewriteRule ^State-Scheme$ Navbar/State-Scheme.php [L]
+
+  RewriteRule ^About-Us$ Navbar/About-Us.php [L]
+  
+  RewriteRule ^Central-Scheme$ Navbar/Central-Scheme.php [L]
+
+  RewriteRule ^Disclaimer$ Navbar/Disclaimer.php [L]
+
+  RewriteRule ^Privacy-Policy$ Navbar/Privacy-Policy.php [L]
+
+  RewriteRule ^Term-and-Condition$ Navbar/Term-and-Condition.php [L]
+  
+  RewriteRule ^Contact-Us$ Navbar/Contact-Us.php [L]
+  
+  #State Name
+  RewriteRule ^Andhra-Pradesh$ StateWise/Andhra-Pradesh.php [L]
+  
+  RewriteRule ^Arunachal-Pradesh$ StateWise/Arunachal-Pradesh.php [L]
+  
+  RewriteRule ^Assam$ StateWise/Assam.php [L]
+  
+  RewriteRule ^Bihar$ StateWise/Bihar.php [L]
+  
+  RewriteRule ^Chandigarh$ StateWise/Chandigarh.php [L]
+  
+  RewriteRule ^Chhattisgarh$ StateWise/Chhattisgarh.php [L]
+  
+  RewriteRule ^Chandigarh$ StateWise/Chandigarh.php [L]
+  
+  RewriteRule ^Delhi$ StateWise/Delhi.php [L]
+  
+  RewriteRule ^Goa$ StateWise/Goa.php [L]
+  
+  RewriteRule ^Gujarat$ StateWise/Gujarat.php [L]
+  
+  RewriteRule ^Haryana$ StateWise/Haryana.php [L]
+  
+  RewriteRule ^Himachal-Pradesh$ StateWise/Himachal-Pradesh.php [L]
+  
+  RewriteRule ^Jammu-and-Kashmir$ StateWise/Jammu-and-Kashmir.php [L]
+  
+  RewriteRule ^Jharkhand$ StateWise/Jharkhand.php [L]
+  
+  RewriteRule ^Karnataka$ StateWise/Karnataka.php [L]
+  
+  RewriteRule ^Kerala$ StateWise/Kerala.php [L]
+  
+  RewriteRule ^Madhya-Pradesh$ StateWise/Madhya-Pradesh.php [L]
+  
+  RewriteRule ^Meghalaya$ StateWise/Meghalaya.php [L]
+  
+  RewriteRule ^Maharashtra$ StateWise/Maharashtra.php [L]
+  
+  RewriteRule ^Manipur$ StateWise/Manipur.php [L]
+  
+  RewriteRule ^Mizoram$ StateWise/Mizoram.php [L]
+  
+  RewriteRule ^Nagaland$ StateWise/Nagaland.php [L]
+  
+  RewriteRule ^Odisha$ StateWise/Odisha.php [L]
+  
+  RewriteRule ^Puducherry$ StateWise/Puducherry.php [L]
+  
+  RewriteRule ^Punjab$ StateWise/Punjab.php [L]
+  
+  RewriteRule ^Rajasthan$ StateWise/Rajasthan.php [L]
+  
+  RewriteRule ^Sikkim$ StateWise/Sikkim.php [L]
+  
+  RewriteRule ^Tamilnadu$ StateWise/Tamilnadu.php [L]
+  
+  RewriteRule ^Telangana$ StateWise/Telangana.php [L]
+  
+  RewriteRule ^Tripura$ StateWise/Tripura.php [L]
+  
+  RewriteRule ^Uttarakhand$ StateWise/Uttarakhand.php [L]
+  
+  RewriteRule ^Uttar-Pradesh$ StateWise/Uttar-Pradesh.php [L]
+  
+  RewriteRule ^West-Bengal$ StateWise/West-Bengal.php [L]
+  
+  #Central Scheme
+  RewriteRule ^Central-Scheme/Awas-Yojana-Urban$ /Central-Scheme/Awas-Yojana-Urban.php [L]
+  
+  RewriteRule ^Central-Scheme/Deen-Dayal-Kausal-Yojana$ /Central-Scheme/Deen-Dayal-Kausal-Yojana.php [L]
+  
+  RewriteRule ^Central-Scheme/Jan-Dhan-Yojana$ /Central-Scheme/Jan-Dhan-Yojana.php [L]
+  
+  RewriteRule ^Central-Scheme/Shram-Yogi-Yojana$ /Central-Scheme/Shram-Yogi-Yojana.php [L]
+  
+  RewriteRule ^Central-Scheme/Vishwakarma-Yojana$ /Central-Scheme/Vishwakarma-Yojana.php [L]
+  
+  RewriteRule ^Central-Scheme/Kisan-Samman-Niddhi-Yojana$ /Central-Scheme/Kisan-Samman-Niddhi-Yojana.php [L]
+  
+  RewriteRule ^Central-Scheme/Jan-Arogya-Yojana$ /Central-Scheme/Jan-Arogya-Yojana.php [L]
+  
+  RewriteRule ^Central-Scheme/Sukanya-Samriddhi-Yojana$ /Central-Scheme/Sukanya-Samriddhi-Yojana.php [L]
+  
+  RewriteRule ^Central-Scheme/Ujjwala-Yojana-2.0$ /Central-Scheme/Ujjwala-Yojana-2.0.php [L]
+  
+  RewriteRule ^Central-Scheme/Kisan-Urja-Suraksha-Evam-Utthaan-Mahabhiyan-Yojana$ /Central-Scheme/Kisan-Urja-Suraksha-Evam-Utthaan-Mahabhiyan-Yojana.php [L]
+  
+  RewriteRule ^Central-Scheme/Sukanya-Samriddhi-Yojana-Update$ /Central-Scheme/Sukanya-Samriddhi-Yojana-Update.php [L]
+
+  RewriteRule ^Central-Scheme/2024/Suryoday-Yojana$ /Central-Scheme/2024/Suryoday-Yojana.php [L]
+  
+  RewriteRule ^Central-Scheme/2024/Janman-Yojana$ /Central-Scheme/2024/Janman-Yojana.php [L]
+  
+  RewriteRule ^Central-Scheme/2024/Surya-Ghar-Muft-Bijli-Yojana$ /Central-Scheme/2024/Surya-Ghar-Muft-Bijli-Yojana.php [L]
+  
+  RewriteRule ^Central-Scheme/2024/Kaushal-Vikas-Yojana$ /Central-Scheme/2024/Kaushal-Vikas-Yojana.php [L]
+  
+  RewriteRule ^Central-Scheme/2024/Jeevan-Jyoti-Beema-Yojana$ /Central-Scheme/2024/Jeevan-Jyoti-Beema-Yojana.php [L]
+  
+  RewriteRule ^Central-Scheme/2024/Fasal-Bima-Yojana$ /Central-Scheme/2024/Fasal-Bima-Yojana.php [L]
+  
+  RewriteRule ^Central-Scheme/2024/Atal-Pension-Yojana$ /Central-Scheme/2024/Atal-Pension-Yojana.php [L]
+  
+  RewriteRule ^Central-Scheme/2024/Samarth-Yojana$ /Central-Scheme/2024/Samarth-Yojana.php [L]
+  
+  
+  
+  #States Scheme
+  RewriteRule ^Bihar/Berojgari-Bhatta-Yojana$ /State-Scheme/Bihar/Berojgari-Bhatta-Yojana.php [L]
+  
+  RewriteRule ^Bihar/Rajya-Fasal-Sahayata-Yojana$ /State-Scheme/Bihar/Rajya-Fasal-Sahayata-Yojana.php [L]
+  
+  RewriteRule ^Madhya-Pradesh/Ladli-Behna-Yojana$ /State-Scheme/Madhya-Pradesh/Ladli-Behna-Yojana.php [L]
+  
+  RewriteRule ^Madhya-Pradesh/Seekho-aur-Kamao-Yojana$ /State-Scheme/Madhya-Pradesh/Seekho-aur-Kamao-Yojana.php [L]
+  
+  RewriteRule ^Uttar-Pradesh/Divyaang-Pension-Yojana$ /State-Scheme/Uttar-Pradesh/Divyaang-Pension-Yojana.php [L]
+  
+  RewriteRule ^Uttar-Pradesh/Kritrim-Ang-Sahayak-Upkaran-Yojana$ /State-Scheme/Uttar-Pradesh/Kritrim-Ang-Sahayak-Upkaran-Yojana.php [L]
+  
+  RewriteRule ^Uttar-Pradesh/Widhwa-Pension-Yojana$ /State-Scheme/Uttar-Pradesh/Widhwa-Pension-Yojana.php [L]
+  
+  RewriteRule ^Delhi/Ladli-Yojana$ /State-Scheme/Delhi/Ladli-Yojana.php [L]
+  
+  RewriteRule ^Odisha/Kalia-Yojana$ /State-Scheme/Odisha/Kalia-Yojana.php [L]
+  
+  RewriteRule ^Gujarat/Mahila-Utkarsh-Yojana$ /State-Scheme/Gujarat/Mahila-Utkarsh-Yojana.php [L]
+  
+  RewriteRule ^Rajasthan/Chiranjeevi-Swasthya-Beem-Yojana$ /State-Scheme/Rajasthan/Chiranjeevi-Swasthya-Beem-Yojana.php [L]
+  
+  RewriteRule ^Haryana/Saksham-Yojana$ /State-Scheme/Haryana/Saksham-Yojana.php [L]
+  
+  RewriteRule ^Jharkhand/Sukhad-Rahat-Yojana$ /State-Scheme/Jharkhand/Sukhad-Rahat-Yojana.php [L]
+  
+  RewriteRule ^Chhattisgarh/Mahtari-Vandan-Yojana$ /State-Scheme/Chhattisgarh/Mahtari-Vandan-Yojana.php [L]
+  
+  RewriteRule ^Madhya-Pradesh/Rojgar-Sangam-Yojana$ /State-Scheme/Madhya-Pradesh/Rojgar-Sangam-Yojana.php [L]
+  
+  RewriteRule ^Rajasthan/Yuva-Sambal-Yojana$ /State-Scheme/Rajasthan/Yuva-Sambal-Yojana.php [L]
+  
+  RewriteRule ^Rajasthan/Indira-Gandhi-Smartphone-Yojana$ /State-Scheme/Rajasthan/Indira-Gandhi-Smartphone-Yojana.php [L]
+  
+  RewriteRule ^Jharkhand/2024/Abua-Awas-Yojana$ /State-Scheme/Jharkhand/2024/Abua-Awas-Yojana.php [L]
+  
+  RewriteRule ^Bihar/2024/Laghu-Udyami-Yojana$ /State-Scheme/Bihar/2024/Laghu-Udyami-Yojana.php [L]
+  
+  RewriteRule ^Rajasthan/2024/Rajshri-Yojana$ /State-Scheme/Rajasthan/2024/Rajshri-Yojana.php [L]
+  
+  RewriteRule ^Madhya-Pradesh/2024/Ladli-Behna-Awas-Yojana$ /State-Scheme/Madhya-Pradesh/2024/Ladli-Behna-Awas-Yojana.php [L]
+  
+  RewriteRule ^Madhya-Pradesh/2024/Baal-Aashirwad-Yojana$ /State-Scheme/Madhya-Pradesh/2024/Baal-Aashirwad-Yojana.php [L]
+  
+  RewriteRule ^Karnataka/2024/Udyogini-Yojana$ /State-Scheme/Karnataka/2024/Udyogini-Yojana.php [L]
+  
+  RewriteRule ^Chhattisgarh/2024/Mahtari-Vandan-Yojana-Update$ /State-Scheme/Chhattisgarh/2024/Mahtari-Vandan-Yojana-Update.php [L]
+  
+  RewriteRule ^Uttar-Pradesh/2024/Vivah-Anudan-Yojana$ /State-Scheme/Uttar-Pradesh/2024/Vivah-Anudan-Yojana.php [L]
+  
+  RewriteRule ^Karnataka/2024/Griha-Lakshmi-Yojana$ /State-Scheme/Karnataka/2024/Griha-Lakshmi-Yojana.php [L]
+  
+  RewriteRule ^Uttarakhand/2024/Lakhpati-Didi-Yojana$ /State-Scheme/Uttarakhand/2024/Lakhpati-Didi-Yojana.php [L]
+  
+  RewriteRule ^All-States/2024/Muft-Laptop-Yojana$ /State-Scheme/All-States/2024/Muft-Laptop-Yojana.php [L]
+  
+  RewriteRule ^Chhattisgarh/2024/Mahtari-Vandan-Yojana-Update2$ /State-Scheme/Chhattisgarh/2024/Mahtari-Vandan-Yojana-Update2.php [L]
+  
+</IfModule>
