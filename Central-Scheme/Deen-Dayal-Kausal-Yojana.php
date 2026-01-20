@@ -36,22 +36,7 @@
 		<p class="shortInformation">
 			<font color="red" class="short">Short Information</font> : <font class="shortDes">दीन दयाल उपाध्याय ग्रामीण कौशल योजना" ग्रामीण विकास मंत्रालय का कौशल प्रशिक्षण और प्लेसमेंट कार्यक्रम अन्य कौशल प्रशिक्षण कार्यक्रमों के बीच एक अनोखा स्थान रखता है, क्योंकि इसका उद्देश्य ग्रामीण गरीब युवाओं पर केंद्रित है और उनके प्लेसमेंट के बाद ट्रैकिंग, प्रतिधारण और कैरियर की प्रगति को प्रमुखता और प्रोत्साहन के माध्यम से स्थायी रोजगार पर देने पर जोर दिया जाता है। इस योजना का उद्देश्य कम पढ़े हुए बेरोजगाार को ट्रेनिंग देना है। जिससे वह अपने पैरो पर खड़े हो सके और वह रोजगार प्राप्त करके बेरोजगारी दूर कर सके। इस योजना का मुख्य उद्देश्य ग्रामीण क्षेत्र युवा बेरोजगार जो अपने जीवन से हताश हो चुके है उन्हे जागरूक और प्रोत्साहित करना है।</font>
 		</p>
-	    <!-- Horizotal Adds Start-->
-	   	<br>
-	   	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2337533772478193"
-     crossorigin="anonymous"></script>
-        <!-- Horizontal Add -->
-        <ins class="adsbygoogle"
-             style="display:block"
-             data-ad-client="ca-pub-2337533772478193"
-             data-ad-slot="2163569223"
-             data-ad-format="auto"
-             data-full-width-responsive="true"></ins>
-        <script>
-             (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
-        <br>
-		<!-- Horizontal Adds End-->
+	    
 		<div class="container">
 			<div class="row">
 				<div class="col-10">
@@ -306,39 +291,11 @@
 					<img src="Images/ddky.jpeg" width="100%" height="300px" alt="Deen Dayal Kausal Yojana logo">
 				</div>
 				<div class="col-2">
-					<!-- adversitement -->
-					<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2337533772478193"
-     crossorigin="anonymous"></script>
-					<!-- Vertical Add -->
-                    <ins class="adsbygoogle"
-                         style="display:block"
-                         data-ad-client="ca-pub-2337533772478193"
-                         data-ad-slot="5911242544"
-                         data-ad-format="auto"
-                         data-full-width-responsive="true"></ins>
-                    <script>
-                         (adsbygoogle = window.adsbygoogle || []).push({});
-                    </script>
-				    <!-- Vertical Add End-->
+					
 				</div>
 			</div>
 		</div>
-		<!-- Horizotal Adds Start-->
-	   	<br>
-	   	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2337533772478193"
-     crossorigin="anonymous"></script>
-        <!-- Horizontal Add -->
-        <ins class="adsbygoogle"
-             style="display:block"
-             data-ad-client="ca-pub-2337533772478193"
-             data-ad-slot="2163569223"
-             data-ad-format="auto"
-             data-full-width-responsive="true"></ins>
-        <script>
-             (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
-        <br>
-		<!-- Horizontal Adds End-->
+		
 		<!--footer-->
 		<?php include('../footer.php'); ?>
 		

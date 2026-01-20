@@ -38,22 +38,7 @@
 			झारखंड राज्य के मुख्यमंत्री हेमंत सोरेन जी के द्वारा झारखण्ड राज्य में आर्थिक रूप से कमजोर वर्ग के परिवारों को पक्का मकान उपलब्ध कराने के लिए अबुआ आवास योजना की शुरूआत की गयी है। झारखंड सरकार के इस योजना के अंतर्गत उन सभी परिवारों को तीन कमरों वाला पक्का मकान दिया जाता है जिनके पास एक भी पक्का मकान नहीं होगा। सरकार के द्वारा से इस योजना के अंतर्गत पक्का मकान बनाने के लिए ₹200000 का आर्थिक सहायता दी जा रही है।
 			</font>
 		</p>
-		<!-- Horizotal Adds Start-->
-	   	<br>
-	   	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2337533772478193"
-     crossorigin="anonymous"></script>
-        <!-- Horizontal Add -->
-        <ins class="adsbygoogle"
-             style="display:block"
-             data-ad-client="ca-pub-2337533772478193"
-             data-ad-slot="2163569223"
-             data-ad-format="auto"
-             data-full-width-responsive="true"></ins>
-        <script>
-             (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
-        <br>
-		<!-- Horizontal Adds End-->
+		
 		<div class="container">
 			<div class="row">
 				<div class="col-10">
@@ -293,20 +278,7 @@
 					</table>
 				</div>
 				<div class="col-2">
-					<!-- adversitement -->
-					<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2337533772478193"
-     crossorigin="anonymous"></script>
-					 <!-- Vertical Add -->
-                    <ins class="adsbygoogle"
-                         style="display:block"
-                         data-ad-client="ca-pub-2337533772478193"
-                         data-ad-slot="5911242544"
-                         data-ad-format="auto"
-                         data-full-width-responsive="true"></ins>
-                    <script>
-                         (adsbygoogle = window.adsbygoogle || []).push({});
-                    </script>
-				    <!-- Vertical Add End-->
+					
 				</div>
 			</div>
 			<div class="row">
@@ -318,22 +290,7 @@
 				</div>
 			</div>
 		</div>
-		<!-- Horizotal Adds Start-->
-	   	<br>
-	   	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2337533772478193"
-     crossorigin="anonymous"></script>
-        <!-- Horizontal Add -->
-        <ins class="adsbygoogle"
-             style="display:block"
-             data-ad-client="ca-pub-2337533772478193"
-             data-ad-slot="2163569223"
-             data-ad-format="auto"
-             data-full-width-responsive="true"></ins>
-        <script>
-             (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
-        <br>
-		<!-- Horizontal Adds End-->
+		
 		<!--footer-->
 		<?php include('../../../footer.php'); ?>
 		

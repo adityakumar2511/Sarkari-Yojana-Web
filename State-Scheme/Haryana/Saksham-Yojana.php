@@ -39,22 +39,7 @@
 			हरियाणा राज्य सरकार की इस saksham yojana के चलते राज्य में कई रोजगार मेले लगाए जा रहे हैं इन रोजगार मेलों के माध्यम से  युवाओं को नौकरी मिल रहीं हैं और उनकी महीने की सैलरी लगभग 15000 या उससे ज्यादा दी जाती है। उन सभी युवाओं को इस योजना के अंतर्गत अन्य कोई भी लाभ नहीं दिया जाता है। इस योजना में आपको जानकारी देंगे की इस सक्षम योजना का नाम “Educated Youth Allowance and Honorarium Scheme (EYAHS)” रखा गया है इसीलिए इसे लोकप्रिय रूप से सक्षम युवा योजना (SYS) के नाम से भी जाना जाता है।
 			</font>
 		</p>
-		<!-- Horizotal Adds Start-->
-	   	<br>
-	   	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2337533772478193"
-     crossorigin="anonymous"></script>
-        <!-- Horizontal Add -->
-        <ins class="adsbygoogle"
-             style="display:block"
-             data-ad-client="ca-pub-2337533772478193"
-             data-ad-slot="2163569223"
-             data-ad-format="auto"
-             data-full-width-responsive="true"></ins>
-        <script>
-             (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
-        <br>
-		<!-- Horizontal Adds End-->
+		
 		<div class="container">
 			<div class="row">
 				<div class="col-10">
@@ -326,20 +311,7 @@
 					</table>
 				</div>
 				<div class="col-2">
-					<!-- adversitement -->
-					<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2337533772478193"
-     crossorigin="anonymous"></script>
-					 <!-- Vertical Add -->
-                    <ins class="adsbygoogle"
-                         style="display:block"
-                         data-ad-client="ca-pub-2337533772478193"
-                         data-ad-slot="5911242544"
-                         data-ad-format="auto"
-                         data-full-width-responsive="true"></ins>
-                    <script>
-                         (adsbygoogle = window.adsbygoogle || []).push({});
-                    </script>
-				    <!-- Vertical Add End-->
+					
 				</div>
 			</div>
 	
@@ -352,22 +324,7 @@
 				</div>
 			</div>
 		</div>
-		<!-- Horizotal Adds Start-->
-	   	<br>
-	   	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2337533772478193"
-     crossorigin="anonymous"></script>
-        <!-- Horizontal Add -->
-        <ins class="adsbygoogle"
-             style="display:block"
-             data-ad-client="ca-pub-2337533772478193"
-             data-ad-slot="2163569223"
-             data-ad-format="auto"
-             data-full-width-responsive="true"></ins>
-        <script>
-             (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
-        <br>
-		<!-- Horizontal Adds End-->
+		
 		<!--footer-->
 		<?php include('../../footer.php'); ?>
 		

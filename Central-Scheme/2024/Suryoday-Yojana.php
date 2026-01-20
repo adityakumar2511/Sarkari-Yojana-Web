@@ -38,22 +38,7 @@
 			    22 जनवरी 2024 को प्रधानमंत्री पीएम मोदी जी सहित बड़े वीआईपी लोग अयोध्या में राम जन्मभूमि के प्राण प्रतिष्ठा का कार्यक्रम मना रहे थे उसी समय पीएम मोदी जी एक नई योजना को शुरू करने के बारे में विचार कर रहे थे और जैसे ही यह कार्यक्रम खत्म हुआ और वह वापस अपने कार्यालय पर लौटे तो उन्होंने उस योजना को शुरू करने की भी घोषणा कर दी। इस योजना शुरू की गई है, जिसका नाम सूर्योदय योजना रखा गया है। यह एक ऐसी योजना है, जो भारत देश में सोलर एनर्जी के क्षेत्र में आगे बढ़ने के लिए सोलर कंपनियों को प्रेरित करेगी और साथ ही इस योजना का लाभ देश के गरीब और सामान्य लोगों को दिया जाएगा। 
             </font>
 		</p>
-		 <!-- Horizotal Adds Start-->
-	   	<br>
-	   	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2337533772478193"
-     crossorigin="anonymous"></script>
-		<!-- Horizontal Add -->
-        <ins class="adsbygoogle"
-             style="display:block"
-             data-ad-client="ca-pub-2337533772478193"
-             data-ad-slot="2163569223"
-             data-ad-format="auto"
-             data-full-width-responsive="true"></ins>
-        <script>
-             (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
-        <br>
-		<!-- Horizontal Adds End-->
+		
 		<div class="container">
 			<div class="row">
 				<div class="col-10">

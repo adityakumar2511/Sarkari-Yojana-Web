@@ -37,22 +37,7 @@
 			<font color="red" class="short">Short Information</font> : <font class="shortDes">छोटे और समस्त ग्रामीण किसानों की आर्थिक सहायता के लिए नरेंद्र मोदी सरकार ने प्रधानमंत्री किसान सम्मान निधि योजना (पीएम किसान) शुरू की गयी है, जिसमे दुसरा नाम प्रधान मंत्री किसान सम्मान निधि (PM Kishan Samman Nidhi Yojana) के रूप में भी है, यह एक केंद्र सरकार की योजना है जो भारत में छोटे और समस्त ग्रामीण किसानों को आय सहायता प्रदान करती है। यह योजना 24 फरवरी, 2019 को प्रधान मंत्री नरेंद्र मोदी द्वारा शुरू की गई थी। इस योजना के तहत आर्थिक रूप से पिछड़े किसानों को सालाना 6 हजार रुपये मिलेंगे। पहली किस्त के रूप में करीब 2 करोड़ किसानों 2000-2000 हजार रुपये दिए जा चुके है  और अभी <u>PM Kishan की 15 वीं किस्त जारी की जा चुकी है। </u>     
             </font>
 		</p>
-		<!-- Horizotal Adds Start-->
-	   	<br>
-	   	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2337533772478193"
-     crossorigin="anonymous"></script>
-        <!-- Horizontal Add -->
-        <ins class="adsbygoogle"
-             style="display:block"
-             data-ad-client="ca-pub-2337533772478193"
-             data-ad-slot="2163569223"
-             data-ad-format="auto"
-             data-full-width-responsive="true"></ins>
-        <script>
-             (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
-        <br>
-		<!-- Horizontal Adds End-->
+		
 		<div class="container">
 			<div class="row">
 				<div class="col-10">
@@ -337,22 +322,7 @@
 				</div>
 			</div>
 		</div>
-		<!-- Horizotal Adds Start-->
-	   	<br>
-	   	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2337533772478193"
-     crossorigin="anonymous"></script>
-        <!-- Horizontal Add -->
-        <ins class="adsbygoogle"
-             style="display:block"
-             data-ad-client="ca-pub-2337533772478193"
-             data-ad-slot="2163569223"
-             data-ad-format="auto"
-             data-full-width-responsive="true"></ins>
-        <script>
-             (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
-        <br>
-		<!-- Horizontal Adds End-->
+		
 		<!--footer-->
 		<?php include('../footer.php'); ?>
 		

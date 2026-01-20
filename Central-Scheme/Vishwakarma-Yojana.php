@@ -42,22 +42,7 @@
                   प्रधानमंत्री विश्वकर्मा योजना के तहत शुरू में 18 तरीके के शिल्पगारो / कारीगारों को इस योजना के तहत लाभ के लिए चुना गया हैं। असंगठित क्षेत्रों में स्वरोजगार के आधार पर औजारों और हाथों से कार्य करने वालों और योजना में 18 परिवार आधारित पारंपरित व्यवसाय में लगे एक कारीगर या शिल्पकार इस प्रधानमंत्री विश्वकर्मा योजना के अन्तर्गत पंजीकरण के पात्र होंगे।
                 </font>
 		</p>
-	    <!-- Horizotal Adds Start-->
-	   	<br>
-	   	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2337533772478193"
-     crossorigin="anonymous"></script>
-        <!-- Horizontal Add -->
-        <ins class="adsbygoogle"
-             style="display:block"
-             data-ad-client="ca-pub-2337533772478193"
-             data-ad-slot="2163569223"
-             data-ad-format="auto"
-             data-full-width-responsive="true"></ins>
-        <script>
-             (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
-        <br>
-		<!-- Horizontal Adds End-->
+	    
 		<div class="container">
 			<div class="row">
 				<div class="col-10">
@@ -259,20 +244,7 @@
 					</table>
 				</div>
 				<div class="col-2">
-					<!-- adversitement -->
-					<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2337533772478193"
-     crossorigin="anonymous"></script>
-					<!-- Vertical Add -->
-                    <ins class="adsbygoogle"
-                         style="display:block"
-                         data-ad-client="ca-pub-2337533772478193"
-                         data-ad-slot="5911242544"
-                         data-ad-format="auto"
-                         data-full-width-responsive="true"></ins>
-                    <script>
-                         (adsbygoogle = window.adsbygoogle || []).push({});
-                    </script>
-				    <!-- Vertical Add End-->
+					
 				</div>
 			</div>
 		
@@ -285,22 +257,7 @@
 				</div>
 			</div>
 		</div>
-		<!-- Horizotal Adds Start-->
-	   	<br>
-	   	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2337533772478193"
-     crossorigin="anonymous"></script>
-        <!-- Horizontal Add -->
-        <ins class="adsbygoogle"
-             style="display:block"
-             data-ad-client="ca-pub-2337533772478193"
-             data-ad-slot="2163569223"
-             data-ad-format="auto"
-             data-full-width-responsive="true"></ins>
-        <script>
-             (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
-        <br>
-		<!-- Horizontal Adds End-->
+		
 		<!--footer-->
 		<?php include('../footer.php'); ?>
 		

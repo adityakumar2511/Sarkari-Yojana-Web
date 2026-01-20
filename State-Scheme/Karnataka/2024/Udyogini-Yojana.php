@@ -38,22 +38,7 @@
 			    <b>भारतीय महिला उद्यमियों के लिए उद्योगिनी योजना:-</b> उद्योगिनी कार्यक्रम भारत में सरकार और महिला उद्यमियों द्वारा उनके कल्याण और उन्नति के लिए इस योजना का शुभारम्भ किया गया है। भारत सरकार की महिला विकास निगम के द्वारा उद्योगिनी योजना लागू कर दी है। यह योजना महिलाओं को व्यवसाय चलाने के लिए वित्तीय आर्थिक सहायता देकर वंचितों के बीच महिला उद्यमिता को प्रोत्साहित और प्रेरित करता है और उन्हें सशक्त बनाता है। उद्योगिनी योजना घरेलू और व्यक्तिगत आय स्तर बढ़ाने में सहायता करती है और राष्ट्रीय विकास को बढ़ावा देने में सहयोग करती है। 
             </font>
 		</p>
-		 <!-- Horizotal Adds Start-->
-	   	<br>
-	   	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2337533772478193"
-     crossorigin="anonymous"></script>
-		<!-- Horizontal Add -->
-        <ins class="adsbygoogle"
-             style="display:block"
-             data-ad-client="ca-pub-2337533772478193"
-             data-ad-slot="2163569223"
-             data-ad-format="auto"
-             data-full-width-responsive="true"></ins>
-        <script>
-             (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
-        <br>
-		<!-- Horizontal Adds End-->
+		 
 		<div class="container">
 			<div class="row">
 				<div class="col-10">
@@ -260,20 +245,7 @@
 					</table>
 				</div>
 				<div class="col-2">
-				<!-- adversitement -->
-				<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2337533772478193"
-     crossorigin="anonymous"></script>
-                <!-- Vertical Add -->
-                <ins class="adsbygoogle"
-                     style="display:block"
-                     data-ad-client="ca-pub-2337533772478193"
-                     data-ad-slot="5911242544"
-                     data-ad-format="auto"
-                     data-full-width-responsive="true"></ins>
-                <script>
-                     (adsbygoogle = window.adsbygoogle || []).push({});
-                </script>
-                <!--vertical add end-->
+				
 				</div>
 			</div>
 		
@@ -286,22 +258,7 @@
 				</div>
 			</div>
 		</div>
-		<!-- Horizotal Adds Start-->
-	   	<br>
-	   	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2337533772478193"
-     crossorigin="anonymous"></script>
-          <!-- Horizontal Add -->
-        <ins class="adsbygoogle"
-             style="display:block"
-             data-ad-client="ca-pub-2337533772478193"
-             data-ad-slot="2163569223"
-             data-ad-format="auto"
-             data-full-width-responsive="true"></ins>
-        <script>
-             (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
-        <br>
-		<!-- Horizontal Adds End-->
+		
 		<!--footer-->
 		<?php include('../../../footer.php'); ?>
 		

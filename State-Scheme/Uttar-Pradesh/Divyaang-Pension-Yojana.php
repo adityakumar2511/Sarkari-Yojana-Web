@@ -38,22 +38,7 @@
             <br>
              दिव्यांग व्यक्ति को प्रति माह कुछ वित्तीय सहायता प्रदान करने के लिए राज्य सरकार द्वारा पेंशन योजना शुरू की गई है। इससे दिव्यांगों को अपनी आजीविका चलाने में बहुत सहायता मिलेगी और जीवन स्तर बेहतर होगा और वह बिना दूसरे की सहायता के खुद अपनी मदद कर सकेंगे। सरकार द्वारा उन्हें प्रति माह दी जाने वाली पेंशन राशि में समय-समय पर वृद्धि की जाती है।</font>
 		</p>
-	    <!-- Horizotal Adds Start-->
-	   	<br>
-	   	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2337533772478193"
-     crossorigin="anonymous"></script>
-        <!-- Horizontal Add -->
-        <ins class="adsbygoogle"
-             style="display:block"
-             data-ad-client="ca-pub-2337533772478193"
-             data-ad-slot="2163569223"
-             data-ad-format="auto"
-             data-full-width-responsive="true"></ins>
-        <script>
-             (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
-        <br>
-		<!-- Horizontal Adds End-->
+	    
 		<div class="container">
 			<div class="row">
 				<div class="col-10">
@@ -299,20 +284,7 @@
 					</table>
 				</div>
 				<div class="col-2">
-					<!-- adversitement -->
-					<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2337533772478193"
-     crossorigin="anonymous"></script>
-					 <!-- Vertical Add -->
-                    <ins class="adsbygoogle"
-                         style="display:block"
-                         data-ad-client="ca-pub-2337533772478193"
-                         data-ad-slot="5911242544"
-                         data-ad-format="auto"
-                         data-full-width-responsive="true"></ins>
-                    <script>
-                         (adsbygoogle = window.adsbygoogle || []).push({});
-                    </script>
-				    <!-- Vertical Add End-->
+					
 				</div>
 			</div>
 	
@@ -325,22 +297,7 @@
 				</div>
 			</div>
 		</div>
-		<!-- Horizotal Adds Start-->
-	   	<br>
-	   	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2337533772478193"
-     crossorigin="anonymous"></script>
-        <!-- Horizontal Add -->
-        <ins class="adsbygoogle"
-             style="display:block"
-             data-ad-client="ca-pub-2337533772478193"
-             data-ad-slot="2163569223"
-             data-ad-format="auto"
-             data-full-width-responsive="true"></ins>
-        <script>
-             (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
-        <br>
-		<!-- Horizontal Adds End-->
+		
 		<!--footer-->
 		<?php include('../../footer.php'); ?>
 		

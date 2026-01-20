@@ -39,22 +39,7 @@
 			ओड़िशा राज्य की कालिया योजना का प्रमुख उद्देश्य ओडिशा राज्य के सभी किसानों को लाभ पहुंचाना है जिससे वह सशक्त हो सके क्योंकि आप सभी जानते हैं  कि हमारे भारत देश के ज्यादातर किसान अपनी आय से खुश नहीं होते हैं संभवतः जो आय वह अर्जित करते हैं वह उनकी जरूरतों और इच्छाओं को पूर्ण करने में खर्च हो जाता है और साथ-साथ उनके बच्चों की शिक्षा के लिए भी पर्याप्त नहीं होता है। इन सभी किसानों की परेशानियों को देखते हुए राज्य सरकार द्वारा कालिया योजना को शुरू किया गया जो सभी किसानों को उनकी सभी जरूरतों और इच्छाओं को पूरा करने में सहयोग करेंगी और उन्हें अपने बच्चों की उच्च शिक्षा भी दें पाएंगे और साथ ही या किसी अन्य उद्देश्य के लिए भी ऋण लेने में भी सहायता करेंगी ।
             </font>
 		</p>
-		<!-- Horizotal Adds Start-->
-	   	<br>
-	   	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2337533772478193"
-     crossorigin="anonymous"></script>
-        <!-- Horizontal Add -->
-        <ins class="adsbygoogle"
-             style="display:block"
-             data-ad-client="ca-pub-2337533772478193"
-             data-ad-slot="2163569223"
-             data-ad-format="auto"
-             data-full-width-responsive="true"></ins>
-        <script>
-             (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
-        <br>
-		<!-- Horizontal Adds End-->
+		
 		<div class="container">
 			<div class="row">
 				<div class="col-10">
@@ -333,20 +318,7 @@
 					</table>
 				</div>
 				<div class="col-2">
-					<!-- adversitement -->
-					<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2337533772478193"
-     crossorigin="anonymous"></script>
-					 <!-- Vertical Add -->
-                    <ins class="adsbygoogle"
-                         style="display:block"
-                         data-ad-client="ca-pub-2337533772478193"
-                         data-ad-slot="5911242544"
-                         data-ad-format="auto"
-                         data-full-width-responsive="true"></ins>
-                    <script>
-                         (adsbygoogle = window.adsbygoogle || []).push({});
-                    </script>
-				    <!-- Vertical Add End-->
+					
 				</div>
 			</div>
 		
@@ -359,22 +331,7 @@
 				</div>
 			</div>
 		</div>
-		<!-- Horizotal Adds Start-->
-	   	<br>
-	   	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2337533772478193"
-     crossorigin="anonymous"></script>
-        <!-- Horizontal Add -->
-        <ins class="adsbygoogle"
-             style="display:block"
-             data-ad-client="ca-pub-2337533772478193"
-             data-ad-slot="2163569223"
-             data-ad-format="auto"
-             data-full-width-responsive="true"></ins>
-        <script>
-             (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
-        <br>
-		<!-- Horizontal Adds End-->
+		
 		<!--footer-->
 		<?php include('../../footer.php'); ?>
 		

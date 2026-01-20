@@ -40,22 +40,7 @@
                 Pradhanmantri Ujjawala Yojana 2024: वर्ष 2020 से 2022 बीते सालों में विश्व को कोरोना वाइरस महामारी से गुजरा है जिसमें अपना भारत भी इस महामारी से अछूता नहीं रहा है लाखों परिवारों को इस महामारी में जीवन यापन बिखर गया। ऐसे कठिन समय में केंद्र सरकार द्वारा बहुत सी कल्याणकारी योजना को शुरू किया गया है। सभी कल्याणकारी योजनाओं में से एक उज्जवला योजना इन योजना है। इसके तहत केंद्र सरकार के द्वारा ग्रामीण क्षेत्र की गरीब परिवारों  जो बपीएल कार्ड धारक महिला जिनकी आयु 18 वर्ष से अधिक  हैं उन्हें एक सिलिंडर फ्री उपलब्ध करवाया जाता है।
             </font>
 		</p>
-			<!-- Horizotal Adds Start-->
-	   	<br>
-	   	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2337533772478193"
-     crossorigin="anonymous"></script>
-        <!-- Horizontal Add -->
-        <ins class="adsbygoogle"
-             style="display:block"
-             data-ad-client="ca-pub-2337533772478193"
-             data-ad-slot="2163569223"
-             data-ad-format="auto"
-             data-full-width-responsive="true"></ins>
-        <script>
-             (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
-        <br>
-		<!-- Horizontal Adds End-->
+			
 		<div class="container">
 			<div class="row">
 				<div class="col-10">
@@ -303,20 +288,7 @@
 					</table>
 				</div>
 				<div class="col-2">
-					<!-- adversitement -->
-					<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2337533772478193"
-     crossorigin="anonymous"></script>
-					<!-- Vertical Add -->
-                    <ins class="adsbygoogle"
-                         style="display:block"
-                         data-ad-client="ca-pub-2337533772478193"
-                         data-ad-slot="5911242544"
-                         data-ad-format="auto"
-                         data-full-width-responsive="true"></ins>
-                    <script>
-                         (adsbygoogle = window.adsbygoogle || []).push({});
-                    </script>
-				    <!-- Vertical Add End-->
+					
 				</div>
 			</div>
 		
@@ -329,22 +301,7 @@
 				</div>
 			</div>
 		</div>
-			<!-- Horizotal Adds Start-->
-	   	<br>
-	   	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2337533772478193"
-     crossorigin="anonymous"></script>
-        <!-- Horizontal Add -->
-        <ins class="adsbygoogle"
-             style="display:block"
-             data-ad-client="ca-pub-2337533772478193"
-             data-ad-slot="2163569223"
-             data-ad-format="auto"
-             data-full-width-responsive="true"></ins>
-        <script>
-             (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
-        <br>
-		<!-- Horizontal Adds End-->
+			
 		<!--footer-->
 		<?php include('../footer.php'); ?>
 	</body>

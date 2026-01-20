@@ -38,22 +38,7 @@
                 उत्तर प्रदेश में गरीबी रेखा से नीचे जीवन यापन कर रहे नागरिक को के लिए सरकार द्वारा विभिन्न योजनाओं का संचालन किया गया है। जिसके माध्यम से उनको सामाजिक एवं आर्थिक सहायता उपलब्ध कराना है। हाल ही में उत्तर प्रदेश सरकार द्वारा भी ऐसी है कि योजना का शुभारंभ किया जा चुका है। जिसका नाम उत्तर प्रदेश विवाह अनुदान योजना है। इस योजना के अंतर्गत आर्थिक रूप से कमजोर नागरिकों की बेटियों की शादी पर आर्थिक सहायता मुहैया कराई जा रही है। यह आर्थिक सहायता राशि ₹51000 की होती है।
             </font>
 		</p>
-	    <!-- Horizotal Adds Start-->
-	   	<br>
-	   	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2337533772478193"
-     crossorigin="anonymous"></script>
-        <!-- Horizontal Add -->
-        <ins class="adsbygoogle"
-             style="display:block"
-             data-ad-client="ca-pub-2337533772478193"
-             data-ad-slot="2163569223"
-             data-ad-format="auto"
-             data-full-width-responsive="true"></ins>
-        <script>
-             (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
-        <br>
-		<!-- Horizontal Adds End-->
+	    
 		<div class="container">
 			<div class="row">
 				<div class="col-10">
@@ -387,20 +372,7 @@
 					</table>
 				</div>
 				<div class="col-2">
-					<!-- adversitement -->
-					<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2337533772478193"
-     crossorigin="anonymous"></script>
-					 <!-- Vertical Add -->
-                    <ins class="adsbygoogle"
-                         style="display:block"
-                         data-ad-client="ca-pub-2337533772478193"
-                         data-ad-slot="5911242544"
-                         data-ad-format="auto"
-                         data-full-width-responsive="true"></ins>
-                    <script>
-                         (adsbygoogle = window.adsbygoogle || []).push({});
-                    </script>
-				    <!-- Vertical Add End-->
+					
 				</div>
 			</div>
 	
@@ -413,22 +385,7 @@
 				</div>
 			</div>
 		</div>
-		<!-- Horizotal Adds Start-->
-	   	<br>
-	   	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2337533772478193"
-     crossorigin="anonymous"></script>
-        <!-- Horizontal Add -->
-        <ins class="adsbygoogle"
-             style="display:block"
-             data-ad-client="ca-pub-2337533772478193"
-             data-ad-slot="2163569223"
-             data-ad-format="auto"
-             data-full-width-responsive="true"></ins>
-        <script>
-             (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
-        <br>
-		<!-- Horizontal Adds End-->
+		
 		<!--footer-->
 		<?php include('../../../footer.php'); ?>
 		

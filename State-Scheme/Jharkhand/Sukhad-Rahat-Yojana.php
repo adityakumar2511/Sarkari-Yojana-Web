@@ -39,22 +39,7 @@
 			झारखंड के मुखयमंत्री श्री हेमंत सोरेन द्वारा मुख्यमंत्री सुखाड़ राहत योजना  की शुरुआत की गयी है इसके तहत सूखे से प्रभावित किसान परिवारों को लाभ दिया जाता है। इस योजना में प्राकृतिक आपदाओ से हुआ नुकसान के होने पर सरकार द्वारा आर्थिक राशि प्रदान की जाती है। यह आर्थिक सहायता राशि लगभग 30 लाख किसान परिवारों को प्रदान किया जायेगा। इस योजना के तहत यह राशि किसानो के बैंक खाते में सीधे जमा की जायेंगी। इस योजना में जिस किसान ने रजिस्ट्रेशन कराया होगा उसे ही लाभ केवल दिया जायेगा इसीलिए हमारे इस लेख को पूरा पढ़े और अपना पंजीकरण अवश्य कराएं ।
 			</font>
 		</p>
-		<!-- Horizotal Adds Start-->
-	   	<br>
-	   	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2337533772478193"
-     crossorigin="anonymous"></script>
-        <!-- Horizontal Add -->
-        <ins class="adsbygoogle"
-             style="display:block"
-             data-ad-client="ca-pub-2337533772478193"
-             data-ad-slot="2163569223"
-             data-ad-format="auto"
-             data-full-width-responsive="true"></ins>
-        <script>
-             (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
-        <br>
-		<!-- Horizontal Adds End-->
+		
 		<div class="container">
 			<div class="row">
 				<div class="col-10">
@@ -308,20 +293,7 @@
 					</table>
 				</div>
 				<div class="col-2">
-					<!-- adversitement -->
-					<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2337533772478193"
-     crossorigin="anonymous"></script>
-					 <!-- Vertical Add -->
-                    <ins class="adsbygoogle"
-                         style="display:block"
-                         data-ad-client="ca-pub-2337533772478193"
-                         data-ad-slot="5911242544"
-                         data-ad-format="auto"
-                         data-full-width-responsive="true"></ins>
-                    <script>
-                         (adsbygoogle = window.adsbygoogle || []).push({});
-                    </script>
-				    <!-- Vertical Add End-->
+					
 				</div>
 			</div>
 		
@@ -334,22 +306,7 @@
 				</div>
 			</div>
 		</div>
-		<!-- Horizotal Adds Start-->
-	   	<br>
-	   	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2337533772478193"
-     crossorigin="anonymous"></script>
-        <!-- Horizontal Add -->
-        <ins class="adsbygoogle"
-             style="display:block"
-             data-ad-client="ca-pub-2337533772478193"
-             data-ad-slot="2163569223"
-             data-ad-format="auto"
-             data-full-width-responsive="true"></ins>
-        <script>
-             (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
-        <br>
-		<!-- Horizontal Adds End-->
+		
 		<!--footer-->
 		<?php include('../../footer.php'); ?>
 		

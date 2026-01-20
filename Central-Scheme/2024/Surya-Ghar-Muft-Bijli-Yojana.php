@@ -38,22 +38,7 @@
 			    पीएम मुफ्त बिजली योजना के लिए करे आज ही आवेदन श्री प्रधानमंत्री नरेंद्र मोदी के द्वारा एक नई योजना की शुरुआत की गयी है जिसका नाम है पीएम सूर्य घर मुक्त बिजली योजना है।  इस योजना का उद्देश्य मुक्त में बिजली देना है। इस योजना के से देश के लगभग एक करोड़ घरों में 300 यूनिट बिजली फ्री दी जानें का उद्देश्य बनाया गया है।
             </font>
 		</p>
-		 <!-- Horizotal Adds Start-->
-	   	<br>
-	   	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2337533772478193"
-     crossorigin="anonymous"></script>
-		<!-- Horizontal Add -->
-        <ins class="adsbygoogle"
-             style="display:block"
-             data-ad-client="ca-pub-2337533772478193"
-             data-ad-slot="2163569223"
-             data-ad-format="auto"
-             data-full-width-responsive="true"></ins>
-        <script>
-             (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
-        <br>
-		<!-- Horizontal Adds End-->
+		
 		<div class="container">
 			<div class="row">
 				<div class="col-10">

@@ -38,22 +38,7 @@
 			    प्रधानमंत्री कौशल विकास योजना योजना कौशल विकास और उद्यमिता मंत्रालय (एमएसडीई) की प्रमुख योजना शुरू की गयी है। PMKVY योजना राष्ट्रीय कौशल विकास निगम द्वारा कार्यान्वित कराती है। इस कौशल प्रमाणन योजना का लक्ष्य बड़ी संख्या में भारतीय युवाओं को उद्योग-प्रासंगिक कौशल प्रशिक्षण में भाग लेने की अनुमति देकर उन्हें बेहतर जीवन जीने में मदद करेगी। 
             </font>
 		</p>
-		 <!-- Horizotal Adds Start-->
-	   	<br>
-	   	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2337533772478193"
-     crossorigin="anonymous"></script>
-		<!-- Horizontal Add -->
-        <ins class="adsbygoogle"
-             style="display:block"
-             data-ad-client="ca-pub-2337533772478193"
-             data-ad-slot="2163569223"
-             data-ad-format="auto"
-             data-full-width-responsive="true"></ins>
-        <script>
-             (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
-        <br>
-		<!-- Horizontal Adds End-->
+		
 		<div class="container">
 			<div class="row">
 				<div class="col-10">

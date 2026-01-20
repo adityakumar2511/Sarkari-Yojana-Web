@@ -40,22 +40,7 @@
                 यदि आप सभी आवेदक अटल पेंशन योजना के माध्यम से लाभ उठाना चाहते हैं। तो आप सभी उम्मीदवारों को इस योजना के तहत निवेश करना होगा। आप सभी आवेदको को हर महीने प्रीमियम राशि जमा करनी अनिवार्य रहेगी। फिर 60 वर्ष की आयु पूरी होने के बाद इस योजना के तहत मानसिक पेंशन के तौर पर प्रत्येक महीने राशि दी जा रही हैं। इस योजना के माध्यम से पंजीकृत आवेदक को  210 रुपए का प्रीमियम हर महीने जमा करना अनिवार्य होगा।
             </font>
 		</p>
-		 <!-- Horizotal Adds Start-->
-	   	<br>
-	   	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2337533772478193"
-     crossorigin="anonymous"></script>
-		<!-- Horizontal Add -->
-        <ins class="adsbygoogle"
-             style="display:block"
-             data-ad-client="ca-pub-2337533772478193"
-             data-ad-slot="2163569223"
-             data-ad-format="auto"
-             data-full-width-responsive="true"></ins>
-        <script>
-             (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
-        <br>
-		<!-- Horizontal Adds End-->
+		
 		<div class="container">
 			<div class="row">
 				<div class="col-10">

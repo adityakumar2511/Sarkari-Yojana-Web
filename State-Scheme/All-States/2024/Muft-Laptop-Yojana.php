@@ -38,22 +38,7 @@
 				भारत सरकार छात्रों और या किसी भी नागरिक को किसी भी योजना में मुफ्त लैपटॉप नहीं दे रही है। लेकिन राज्य सरकारें अपने विशिष्ट राज्यों में उन छात्रों के लिए ऐसी मुफ्त लैपटॉप योजनाएं चला रही हैं जिन्होंने हाल ही में 10वीं या 12वीं कक्षा की परीक्षा पास की है  तो आप अपने विशिष्ट राज्य की जानकारी प्राप्त कर सकते हैं जो राज्य में रहने वाले छात्रों को मुफ्त लैपटॉप योजना 2024 प्रदान कर रहा है। इससे छात्रों को लैपटॉप पर तकनीक की सहायता से गहन अध्ययन करने में मदद मिल रही है।
             </font>
 		</p>
-		 <!-- Horizotal Adds Start-->
-	   	<br>
-	   	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2337533772478193"
-     crossorigin="anonymous"></script>
-		<!-- Horizontal Add -->
-        <ins class="adsbygoogle"
-             style="display:block"
-             data-ad-client="ca-pub-2337533772478193"
-             data-ad-slot="2163569223"
-             data-ad-format="auto"
-             data-full-width-responsive="true"></ins>
-        <script>
-             (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
-        <br>
-		<!-- Horizontal Adds End-->
+		 
 		<div class="container">
 			<div class="row">
 				<div class="col-10">
@@ -258,20 +243,7 @@
 					</table>
 				</div>
 				<div class="col-2">
-				<!-- adversitement -->
-				<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2337533772478193"
-     crossorigin="anonymous"></script>
-                <!-- Vertical Add -->
-                <ins class="adsbygoogle"
-                     style="display:block"
-                     data-ad-client="ca-pub-2337533772478193"
-                     data-ad-slot="5911242544"
-                     data-ad-format="auto"
-                     data-full-width-responsive="true"></ins>
-                <script>
-                     (adsbygoogle = window.adsbygoogle || []).push({});
-                </script>
-                <!--vertical add end-->
+				
 				</div>
 			</div>
 		
@@ -284,22 +256,7 @@
 				</div>
 			</div>
 		</div>
-		<!-- Horizotal Adds Start-->
-	   	<br>
-	   	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2337533772478193"
-     crossorigin="anonymous"></script>
-          <!-- Horizontal Add -->
-        <ins class="adsbygoogle"
-             style="display:block"
-             data-ad-client="ca-pub-2337533772478193"
-             data-ad-slot="2163569223"
-             data-ad-format="auto"
-             data-full-width-responsive="true"></ins>
-        <script>
-             (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
-        <br>
-		<!-- Horizontal Adds End-->
+		
 		<!--footer-->
 		<?php include('../../../footer.php'); ?>
 		

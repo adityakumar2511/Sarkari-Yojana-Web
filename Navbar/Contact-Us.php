@@ -60,22 +60,6 @@
             <!--<a href="https://youtube.com/@SarkariYojanaWeb?si=SVNUVAfs8oC-7VB9" target="_blank" style="color:red;"><i class="fa-brands fa-square-youtube icon" style="color:red;"></i></a>-->
         </div>
 		<br>
-		<!-- Horizotal Adds Start-->
-		<br>
-		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2337533772478193"
-     crossorigin="anonymous"></script>
-        <!-- Horizontal Add -->
-        <ins class="adsbygoogle"
-             style="display:block"
-             data-ad-client="ca-pub-2337533772478193"
-             data-ad-slot="2163569223"
-             data-ad-format="auto"
-             data-full-width-responsive="true"></ins>
-        <script>
-             (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
-        <br>
-		<!-- Horizontal Adds End-->
 		
 	    <!--footer Start-->
 		<div class="container-fluid" id="footercontainer">

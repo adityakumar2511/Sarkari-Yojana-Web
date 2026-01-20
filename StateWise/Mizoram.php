@@ -33,21 +33,6 @@
 			Click Here to Visit SarkariYojanaWeb.com Home page
 		</a>
 		<br><br>
-		<!-- Horizotal Adds Start-->
-		<br>
-		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2337533772478193"
-     crossorigin="anonymous"></script>
-        <ins class="adsbygoogle"
-             style="display:block"
-             data-ad-client="ca-pub-2337533772478193"
-             data-ad-slot="2163569223"
-             data-ad-format="auto"
-             data-full-width-responsive="true"></ins>
-        <script>
-             (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
-        <br>
-		<!-- Horizontal Adds End-->
 		<div class="container">
 			<div class="row StateMainBox">
 				<div class="col-9 StateBox">
@@ -63,21 +48,6 @@
 				</div>
 			</div>
 		</div>
-		<!-- Horizotal Adds Start-->
-		<br>
-		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2337533772478193"
-     crossorigin="anonymous"></script>
-        <ins class="adsbygoogle"
-             style="display:block"
-             data-ad-client="ca-pub-2337533772478193"
-             data-ad-slot="2163569223"
-             data-ad-format="auto"
-             data-full-width-responsive="true"></ins>
-        <script>
-             (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
-        <br>
-		<!-- Horizontal Adds End-->
 		<div class="information">
 			<h3>Important Information for Mizoram</h3>
 			<p>
@@ -93,21 +63,6 @@
                 </ul>
 			</p>	
 		</div>
-		<!-- Horizotal Adds Start-->
-		<br>
-		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2337533772478193"
-     crossorigin="anonymous"></script>
-        <ins class="adsbygoogle"
-             style="display:block"
-             data-ad-client="ca-pub-2337533772478193"
-             data-ad-slot="2163569223"
-             data-ad-format="auto"
-             data-full-width-responsive="true"></ins>
-        <script>
-             (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
-        <br>
-		<!-- Horizontal Adds End-->
 		<!--footer-->
 	     <?php include('../footer.php'); ?>
 	     

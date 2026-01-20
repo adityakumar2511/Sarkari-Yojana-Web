@@ -35,22 +35,7 @@
 		<p class="shortInformation">
 			<font color="red" class="short">Short Information</font> : <font class="shortDes">प्रधानमंत्री जन धन योजना (पीएमजेडीवाई) नामक वित्तीय समावेशन के लिए एक राष्ट्रीय मिशन 28 अगस्त, 2014 को देश भर में शुरू किया गया था। इसमें देश के प्रत्येक बैंक सुविधा से वंचित वयस्क के लिए सार्वभौमिक बैंकिंग सेवाएं प्रदान करने की परिकल्पना की गई है। जो वहनीय तरीके से वित्तीय सेवा जैसे बैंकिग / बचत खाता तथा जमा खाता, ऋण खाता, बीमा और पेंशन तक पहुँच सुनिश्चित करता हैं। यह खाता किसी भी बैंक शाखा अथवा बैंक प्रतिनिधि में खोला जा सकता हैं। इस योजना के खाते को जीरो बैंलेस के खोला जा सकता हैं। यदि खाता धारक अपने खाता बुक की जाँच करना चाहते हैं तो यह वह न्यूनतम बैलेंस मानदण्डो को पूर्ण करना होगा। </font>
 		</p>
-	    	<!-- Horizotal Adds Start-->
-	   	<br>
-	   	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2337533772478193"
-     crossorigin="anonymous"></script>
-        <!-- Horizontal Add -->
-        <ins class="adsbygoogle"
-             style="display:block"
-             data-ad-client="ca-pub-2337533772478193"
-             data-ad-slot="2163569223"
-             data-ad-format="auto"
-             data-full-width-responsive="true"></ins>
-        <script>
-             (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
-        <br>
-		<!-- Horizontal Adds End-->
+	    	
 		<div class="container">
 			<div class="row">
 				<div class="col-10">
@@ -260,22 +245,7 @@
 				</div>
 			</div>
 		</div>
-			<!-- Horizotal Adds Start-->
-	   	<br>
-	   	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2337533772478193"
-     crossorigin="anonymous"></script>
-        <!-- Horizontal Add -->
-        <ins class="adsbygoogle"
-             style="display:block"
-             data-ad-client="ca-pub-2337533772478193"
-             data-ad-slot="2163569223"
-             data-ad-format="auto"
-             data-full-width-responsive="true"></ins>
-        <script>
-             (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
-        <br>
-		<!-- Horizontal Adds End-->
+			
 		<!--footer-->
 		<?php include('../footer.php'); ?>
 		

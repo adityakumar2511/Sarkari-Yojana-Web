@@ -36,22 +36,7 @@
 		<p class="shortInformation">
 			<font color="red" class="short">Short Information</font> :<font class="shortDes">मध्य प्रदेश राज्य सरकार ने युवाओं को रोजगार देने के लिए इस  नई योजना की शुरुआत की गयी है। इस योजना का नाम  रोजगार संगम योजना मध्यप्रदेश रखा गया है। इसके अंतर्गत युवाओं को सरकारी और निजी क्षेत्रों में उनकी योग्यता के अनुसार लाभ दिया जाता है। इस योजना का प्रमुख उद्देश्य नियोक्ता और नौकरी करने वालों को एक प्लेटफार्म पर लाना है और उन्हें नौकरी का आवेदन जमा करने में मदद करना है ताकि युवाओं और नियोक्ताओं को किसी भी समस्या का सामना न करना पड़े।</font>
 		</p>
-	    <!-- Horizotal Adds Start-->
-	   	<br>
-	   	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2337533772478193"
-     crossorigin="anonymous"></script>
-        <!-- Horizontal Add -->
-        <ins class="adsbygoogle"
-             style="display:block"
-             data-ad-client="ca-pub-2337533772478193"
-             data-ad-slot="2163569223"
-             data-ad-format="auto"
-             data-full-width-responsive="true"></ins>
-        <script>
-             (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
-        <br>
-		<!-- Horizontal Adds End-->
+	    
 		<div class="container">
 			<div class="row">
 				<div class="col-10">
@@ -327,20 +312,7 @@
 					</table>
 				</div>
 				<div class="col-2">
-					<!-- adversitement -->
-					<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2337533772478193"
-     crossorigin="anonymous"></script>
-					 <!-- Vertical Add -->
-                    <ins class="adsbygoogle"
-                         style="display:block"
-                         data-ad-client="ca-pub-2337533772478193"
-                         data-ad-slot="5911242544"
-                         data-ad-format="auto"
-                         data-full-width-responsive="true"></ins>
-                    <script>
-                         (adsbygoogle = window.adsbygoogle || []).push({});
-                    </script>
-				    <!-- Vertical Add End-->
+					
 				</div>
 			</div>
 		
@@ -353,22 +325,7 @@
 				</div>
 			</div>
 		</div>
-		<!-- Horizotal Adds Start-->
-	   	<br>
-	   	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2337533772478193"
-     crossorigin="anonymous"></script>
-        <!-- Horizontal Add -->
-        <ins class="adsbygoogle"
-             style="display:block"
-             data-ad-client="ca-pub-2337533772478193"
-             data-ad-slot="2163569223"
-             data-ad-format="auto"
-             data-full-width-responsive="true"></ins>
-        <script>
-             (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
-        <br>
-		<!-- Horizontal Adds End-->
+		
 		<!--footer-->
 		<?php include('../../footer.php'); ?>
 		

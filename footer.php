@@ -18,23 +18,23 @@
     		    <div class="row"  >
     		        <div class="col-3  footercol1">
     		            <br>
-    		           <a href="https://sarkariyojanaweb.com/Home-Page" target="_self" class="footerlink">HOME</a>
+    		           <a href="/" target="_self" class="footerlink">HOME</a>
     				    <br>
-                        <a href="https://sarkariyojanaweb.com/About-Us" target="_self" class="footerlink">ABOUT US</a>
+                        <a href="./Navbar/About-Us.php" target="_self" class="footerlink">ABOUT US</a>
     			    	<br>
-    			        <a href="https://sarkariyojanaweb.com/Contact-Us" target="_self" class="footerlink">CONTACT US</a>
+    			        <a href="./Navbar/Contact-Us.php" target="_self" class="footerlink">CONTACT US</a>
     				    <br>
-    				    <a href="https://sarkariyojanaweb.com/Privacy-Policy" target="_self" class="footerlink">PRIVACY POLICY</a>
+    				    <a href="./Navbar/Privacy-Policy.php" target="_self" class="footerlink">PRIVACY POLICY</a>
     				    <br>
-    				    <a href="https://sarkariyojanaweb.com/Disclaimer" target="_self" class="footerlink">DISCLAIMER</a>
+    				    <a href="./NavbarDisclaimer.php" target="_self" class="footerlink">DISCLAIMER</a>
     				    <br>
-    				    <a href="https://sarkariyojanaweb.com/Term-and-Condition" target="_self" class="footerlink">TERM AND CONDITION</a>
+    				    <a href="./NavbarTerm-and-Condition.php" target="_self" class="footerlink">TERM AND CONDITION</a>
     		        </div>
     		        <div class="col-2 footercol2">
     		            <h4 class="footerhead">Category</h4>
-    		            <a href="https://sarkariyojanaweb.com/Central-Scheme" target="_self" class="footerlink">Central Scheme</a>
+    		            <a href="./Navbar/Central-Scheme.php" target="_self" class="footerlink">Central Scheme</a>
     				    <br>
-    				    <a href="https://sarkariyojanaweb.com/State-Scheme" target="_self" class="footerlink">State Scheme</a>
+    				    <a href="./Navbar/State-Scheme.php" target="_self" class="footerlink">State Scheme</a>
     				    <br><br>
     				    <h4 class="footerhead">Quick Link</h4>
     				    <a href="https://www.facebook.com/profile.php?id=61553482957642" class="icon" target="_blank"><i class="fa-brands fa-square-facebook"></i></a>
@@ -47,7 +47,7 @@
     		             <h4 class="footerhead">About Us:</h4>
     		             <div class="footercol3-content">
         		            <div class="content1">
-        		                 <img src="https://sarkariyojanaweb.com/logo.svg" alt="Sarkari Yojana Logo" class="img-fluid" width="1000px" height="500px">
+        		                 <img src="./logo.svg" alt="Sarkari Yojana Logo" class="img-fluid" width="1000px" height="500px">
         		            </div>
         		            <div class="content2">
         		                sarkariyojanaweb.com: The website (www.sarkariyojanaweb.com) is not a government-run website, nor does it have

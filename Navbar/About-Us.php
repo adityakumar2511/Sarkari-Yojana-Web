@@ -34,22 +34,6 @@
 			Click Here to Visit SarkariYojanaWeb.com Home page
 		</a>
 		<br>
-		<!-- Horizotal Adds Start-->
-		<br>
-		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2337533772478193"
-     crossorigin="anonymous"></script>
-        <!-- Horizontal Add -->
-        <ins class="adsbygoogle"
-             style="display:block"
-             data-ad-client="ca-pub-2337533772478193"
-             data-ad-slot="2163569223"
-             data-ad-format="auto"
-             data-full-width-responsive="true"></ins>
-        <script>
-             (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
-        <br>
-		<!-- Horizontal Adds End-->
 		<div class="otherpage">
 			<p class="content">
 				Hello, Dear friends, Welcome to Sarkari Yojana Web also, we are happy you want to know something more about our site
@@ -117,22 +101,6 @@
 			<p class="content">
 				If you have any problem & suggestions for this website then you can contact me by using following contact details.
 			</p>
-			<!-- Horizotal Adds Start-->
-		<br>
-		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2337533772478193"
-     crossorigin="anonymous"></script>
-        <!-- Horizontal Add -->
-        <ins class="adsbygoogle"
-             style="display:block"
-             data-ad-client="ca-pub-2337533772478193"
-             data-ad-slot="2163569223"
-             data-ad-format="auto"
-             data-full-width-responsive="true"></ins>
-        <script>
-             (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
-        <br>
-		<!-- Horizontal Adds End-->
 			<center>
 				<table border="2px" cellspacing="0" style="text-align: center;" class="about-table">
 					<tbody>
@@ -173,22 +141,6 @@
 					</tbody>
 				</table>
 		</center>
-		<!-- Horizotal Adds Start-->
-		<br>
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2337533772478193"
-     crossorigin="anonymous"></script>
-        <!-- Horizontal Add -->
-        <ins class="adsbygoogle"
-             style="display:block"
-             data-ad-client="ca-pub-2337533772478193"
-             data-ad-slot="2163569223"
-             data-ad-format="auto"
-             data-full-width-responsive="true"></ins>
-        <script>
-             (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
-        <br>
-		<!-- Horizontal Adds End-->
 		<p class="content">
 			These details are my personal Account details if you want to contact me then you can contact me by the above platform.
 		</p>

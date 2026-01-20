@@ -38,22 +38,7 @@
                 छत्तीशगढ़ प्रदेश मे महिलाओ के आर्थिक स्वावलंबन तथा उनके स्वास्थ्य एवं पोषण स्तर मे सतत सुधार, सशक्त करने के लिए तथा परिवार मे उनकी निर्णायक भूमिका सुदृढ़ करने हेतु , समाज मे महिलाओं के प्रति भेदभाव , असमानता एवं जागरूकता की कमी को दूर करने के लिए, स्वास्थ्य एवं पोषण स्तर मे सुधार करने के लिए तथा आर्थिक स्वावलंबन एवं सशक्तिकरण को बढ़ावा देने के प्रमुख उद्देश्यों को ध्यान में रखते हुए मंत्री परिषद द्वारा सम्पूर्ण छत्तीसगढ़ में "महतारी वंदन योजना" लागू किए जाने का निर्णय लिया गया है , जिसके अंतर्गत पात्र विवाहित महिलाओ को प्रतिमाह 1000 रुपये की वित्तीय आर्थिक सहायता प्रदान की जाएगी| 
             </font>
 		</p>
-		<!-- Horizotal Adds Start-->
-	   	<br>
-	   	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2337533772478193"
-     crossorigin="anonymous"></script>
-        <!-- Horizontal Add -->
-        <ins class="adsbygoogle"
-             style="display:block"
-             data-ad-client="ca-pub-2337533772478193"
-             data-ad-slot="2163569223"
-             data-ad-format="auto"
-             data-full-width-responsive="true"></ins>
-        <script>
-             (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
-        <br>
-		<!-- Horizontal Adds End-->
+		
 		<div class="container">
 			<div class="row">
 				<div class="col-10">
@@ -247,20 +232,7 @@
 					</table>
 				</div>
 				<div class="col-2">
-					<!-- adversitement -->
-					<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2337533772478193"
-     crossorigin="anonymous"></script>
-					 <!-- Vertical Add -->
-                    <ins class="adsbygoogle"
-                         style="display:block"
-                         data-ad-client="ca-pub-2337533772478193"
-                         data-ad-slot="5911242544"
-                         data-ad-format="auto"
-                         data-full-width-responsive="true"></ins>
-                    <script>
-                         (adsbygoogle = window.adsbygoogle || []).push({});
-                    </script>
-				    <!-- Vertical Add End-->
+					
 				</div>
 			</div>
 		
@@ -273,22 +245,7 @@
 				</div>
 			</div>
 		</div>
-		<!-- Horizotal Adds Start-->
-	   	<br>
-	   	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2337533772478193"
-     crossorigin="anonymous"></script>
-        <!-- Horizontal Add -->
-        <ins class="adsbygoogle"
-             style="display:block"
-             data-ad-client="ca-pub-2337533772478193"
-             data-ad-slot="2163569223"
-             data-ad-format="auto"
-             data-full-width-responsive="true"></ins>
-        <script>
-             (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
-        <br>
-		<!-- Horizontal Adds End-->
+		
 		<!--footer-->
 		<?php include('../../../footer.php'); ?>
 		

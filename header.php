@@ -19,7 +19,7 @@
         <div class="container-fluid" style="background-color: #68009E;">
 	    	<div class="row">
                 <div class="col-3">
-                    <img src="https://sarkariyojanaweb.com/logo.svg" alt="Sarkari Yojana Logo" height="100px" width="100px" class="img-fluid" id="logo">
+                    <img src="./logo.svg" alt="Sarkari Yojana Logo" height="100px" width="100px" class="img-fluid" id="logo">
                 </div>
                 <div class="col-9 containter" id="head">
                     <strong class="h2">SARKARI YOJANA WEB</strong>
@@ -29,29 +29,29 @@
 		</div>
         <nav class="navbar">
             <div class="nav-container">
-                <p id="nav-home"><a href="https://sarkariyojanaweb.com/Home-Page">Home</a></p>
+                <p id="nav-home"><a href="/">Home</a></p>
               
                   <ul class="nav-list" id="nav-list">
                       <li>
-                          <a href="https://sarkariyojanaweb.com/Central-Scheme">Central Scheme</a>
+                          <a href="./Navbar/Central-Scheme.php">Central Scheme</a>
                         </li>
                         <li>
-                          <a href="https://sarkariyojanaweb.com/State-Scheme">State Scheme</a>
+                          <a href="./Navbar/State-Scheme.php">State Scheme</a>
                         </li>
                         <li>
-                          <a href="https://sarkariyojanaweb.com/About-Us">About Us</a>
+                          <a href="./Navbar/About-Us.php">About Us</a>
                         </li>
                         <li>
-                          <a href="https://sarkariyojanaweb.com/Disclaimer">Disclaimer</a>
+                          <a href="./NavbarDisclaimer.php">Disclaimer</a>
                         </li>
                         <li>
-                          <a href="https://sarkariyojanaweb.com/Privacy-Policy">Privacy Policy</a>
+                          <a href="./NavbarPrivacy-Policy.php">Privacy Policy</a>
                         </li>
                         <li>
-                          <a href="https://sarkariyojanaweb.com/Term-and-Condition">Term and Condition</a>
+                          <a href="./NavbarTerm-and-Condition.php">Term and Condition</a>
                         </li>
                         <li>
-                          <a href="https://sarkariyojanaweb.com/Contact-Us">Contact Us</a>
+                          <a href="./NavbarContact-Us.php">Contact Us</a>
                         </li>
                   </ul>
                 </div>

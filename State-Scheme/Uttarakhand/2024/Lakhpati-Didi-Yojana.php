@@ -38,22 +38,7 @@
 			    उत्तराखंड सरकार द्वारा राज्य की महिलाओं के कल्याण और विकास के लिए एक नई योजना की शुरुआत की गयी है, जिसका नाम मुख्यमंत्री लखपति दीदी योजना रखा गया है। इस योजना के तहत सरकार द्वारा साल 2025 तक एक लाख पच्चीस हजार महिलाओं को लखपति बनाने का लक्ष्य निर्धारित किया गया है। लखपति दीदी योजना उत्तराखंड का लाभ उत्तराखंड की स्वयं सहायता समूह (shg) से जुड़ी महिलाओं को ही दिया जायेगा।
             </font>
 		</p>
-		 <!-- Horizotal Adds Start-->
-	   	<br>
-	   	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2337533772478193"
-     crossorigin="anonymous"></script>
-		<!-- Horizontal Add -->
-        <ins class="adsbygoogle"
-             style="display:block"
-             data-ad-client="ca-pub-2337533772478193"
-             data-ad-slot="2163569223"
-             data-ad-format="auto"
-             data-full-width-responsive="true"></ins>
-        <script>
-             (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
-        <br>
-		<!-- Horizontal Adds End-->
+		 
 		<div class="container">
 			<div class="row">
 				<div class="col-10">
@@ -243,20 +228,7 @@
 					</table>
 				</div>
 				<div class="col-2">
-				<!-- adversitement -->
-				<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2337533772478193"
-     crossorigin="anonymous"></script>
-                <!-- Vertical Add -->
-                <ins class="adsbygoogle"
-                     style="display:block"
-                     data-ad-client="ca-pub-2337533772478193"
-                     data-ad-slot="5911242544"
-                     data-ad-format="auto"
-                     data-full-width-responsive="true"></ins>
-                <script>
-                     (adsbygoogle = window.adsbygoogle || []).push({});
-                </script>
-                <!--vertical add end-->
+				
 				</div>
 			</div>
 		
@@ -269,22 +241,7 @@
 				</div>
 			</div>
 		</div>
-		<!-- Horizotal Adds Start-->
-	   	<br>
-	   	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2337533772478193"
-     crossorigin="anonymous"></script>
-          <!-- Horizontal Add -->
-        <ins class="adsbygoogle"
-             style="display:block"
-             data-ad-client="ca-pub-2337533772478193"
-             data-ad-slot="2163569223"
-             data-ad-format="auto"
-             data-full-width-responsive="true"></ins>
-        <script>
-             (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
-        <br>
-		<!-- Horizontal Adds End-->
+		
 		<!--footer-->
 		<?php include('../../../footer.php'); ?>
 		

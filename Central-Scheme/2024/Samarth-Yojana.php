@@ -38,22 +38,7 @@
             देश भर के सभी नोजवानो को वस्त्र उत्पादन से संबंधित प्रशिक्षण प्रदान करने के लिए उन्हें रोजगार के बेहतर अवसर उपलब्ध कराना ही केंद्र सरकार का एक मात्र उद्देश्य बनाया गया है, इसी लक्ष्य के साथ ही मोदी सरकार ने समर्थ योजना की शुरुआत की है। भारत में उत्पादन बहुत कम किया जाता है, जिससे विदेशी इसका लाभ उठाते रहते हैं। विदेशी वस्त्रो को भारत के बाज़ारो में ऊचे दामों पर बेचा दिया जाता है। इसीलिए अब केंद्र सरकार द्वारा शुरू की गई समर्थ योजना 2024 के सफल कार्यान्वयन से वस्त्र उत्पादन में तेज़ी देखने को मिल रही है। केंद्र सरकार ने इस योजना के सफल कार्यान्वयन के लिए, देश के अठारह राज्यों से एमओयू पर साइन किया गया है, ताकि इस योजना के तहत इन राज्यों के 4 लाख लोगों को वस्त्र उद्योग से जुड़े हुनर का प्रशिक्षण एवं उन्हें रोजगार भी प्रदान किया जाए।
             </font>
 		</p>
-		 <!-- Horizotal Adds Start-->
-	   	<br>
-	   	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2337533772478193"
-     crossorigin="anonymous"></script>
-		<!-- Horizontal Add -->
-        <ins class="adsbygoogle"
-             style="display:block"
-             data-ad-client="ca-pub-2337533772478193"
-             data-ad-slot="2163569223"
-             data-ad-format="auto"
-             data-full-width-responsive="true"></ins>
-        <script>
-             (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
-        <br>
-		<!-- Horizontal Adds End-->
+		
 		<div class="container">
 			<div class="row">
 				<div class="col-10">

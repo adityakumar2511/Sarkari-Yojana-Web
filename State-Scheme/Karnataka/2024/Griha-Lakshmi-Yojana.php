@@ -40,22 +40,7 @@
                 कर्नाटक सरकार ने कहा है कि गृह लक्ष्मी योजना का लाभ उठाने के लिए राशन कार्डों में 1 सितंबर से 10 सितंबर 2023 तक संशोधन किया जा सकता है। सभी पात्र महिलाएं कर्नाटक वन, बेंगलुरु वन और ग्राम वन केंद्रों पर अपने राशन कार्ड में संशोधन कर सकती हैं और लाभ प्राप्त कर सकती हैं।
             </font>
 		</p>
-		 <!-- Horizotal Adds Start-->
-	   	<br>
-	   	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2337533772478193"
-     crossorigin="anonymous"></script>
-		<!-- Horizontal Add -->
-        <ins class="adsbygoogle"
-             style="display:block"
-             data-ad-client="ca-pub-2337533772478193"
-             data-ad-slot="2163569223"
-             data-ad-format="auto"
-             data-full-width-responsive="true"></ins>
-        <script>
-             (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
-        <br>
-		<!-- Horizontal Adds End-->
+		 
 		<div class="container">
 			<div class="row">
 				<div class="col-10">
@@ -308,20 +293,7 @@
 					</table>
 				</div>
 				<div class="col-2">
-				<!-- adversitement -->
-				<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2337533772478193"
-     crossorigin="anonymous"></script>
-                <!-- Vertical Add -->
-                <ins class="adsbygoogle"
-                     style="display:block"
-                     data-ad-client="ca-pub-2337533772478193"
-                     data-ad-slot="5911242544"
-                     data-ad-format="auto"
-                     data-full-width-responsive="true"></ins>
-                <script>
-                     (adsbygoogle = window.adsbygoogle || []).push({});
-                </script>
-                <!--vertical add end-->
+				
 				</div>
 			</div>
 		
@@ -334,22 +306,7 @@
 				</div>
 			</div>
 		</div>
-		<!-- Horizotal Adds Start-->
-	   	<br>
-	   	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2337533772478193"
-     crossorigin="anonymous"></script>
-          <!-- Horizontal Add -->
-        <ins class="adsbygoogle"
-             style="display:block"
-             data-ad-client="ca-pub-2337533772478193"
-             data-ad-slot="2163569223"
-             data-ad-format="auto"
-             data-full-width-responsive="true"></ins>
-        <script>
-             (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
-        <br>
-		<!-- Horizontal Adds End-->
+		
 		<!--footer-->
 		<?php include('../../../footer.php'); ?>
 		
